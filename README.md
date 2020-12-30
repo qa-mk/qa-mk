@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=qa-mk&show_icons=true&include_all_commits=true" alt="qa-mk's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qa-mk&layout=compact" alt="qa-mk's most used languages" />
+
 <!--
 **qa-mk/qa-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
