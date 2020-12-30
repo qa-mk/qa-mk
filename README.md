@@ -10,6 +10,7 @@
 <code><img height="50" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Python"></code>
 <code><img height="50" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="JavaScript"></code>
 <code><img height="50" src="https://seeklogo.com/images/A/autoit-logo-CC4B097310-seeklogo.com.png" alt="Autoit"></code>
+<code><img height="50" src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png" alt="Bash"></code>
 
 **Tools:**
 
