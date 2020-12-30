@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on multiple projects.
+- 🌱 I’m currently learning Amazon Web Services (AWS).
+- 👯 I’m looking to collaborate on any automation project.
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=qa-mk&show_icons=true&include_all_commits=true" alt="qa-mk's github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qa-mk&layout=compact" alt="qa-mk's most used languages" />
